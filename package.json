@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://nayanksamanta.github.io/Nayan_repository",
+  "homepage": "https://nayanksamanta.github.io/Nayan-Repository",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://nayanksamanta.github.io/Nayan_repository'",
+    "build-gh": "parcel build --public-url 'https://nayanksamanta.github.io/Nayan-Repository'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
